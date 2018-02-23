@@ -10,6 +10,6 @@
 
  #### Поскольку применить разные фильтры к разным колонкам таблицы не получается из-за смешивания информации,я прикреплю две ссылки на таблицы,к которым я применила разные фильтры 
  
- ## (Какой ты тусовщик 1) [https://docs.google.com/spreadsheets/d/1talPsdFRJ5a8iDJxNIibKA2tPWgPGppu21BaFFN4L0I/edit#gid=602844268]
+ ## [Какой ты тусовщик](https://docs.google.com/spreadsheets/d/1talPsdFRJ5a8iDJxNIibKA2tPWgPGppu21BaFFN4L0I/edit#gid=602844268)
  
- ## (Какой ты тусовщик 2) [https://docs.google.com/spreadsheets/d/1D8iXQvDbMSgCGHYNl9y4Tf7UGHkmoXXrHj5D2Cnl-7A/edit#gid=602844268&fvid=232062454]
+ ## [Какой ты тусовщик 2](https://docs.google.com/spreadsheets/d/1D8iXQvDbMSgCGHYNl9y4Tf7UGHkmoXXrHj5D2Cnl-7A/edit#gid=602844268&fvid=232062454)
